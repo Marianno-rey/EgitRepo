@@ -6,7 +6,7 @@ public class HelloWorld {
 		Scanner sc = new Scanner(System.in);
 		int bruh = sc.nextInt();
 		System.out.println(bruh);
-		System.out.println("What the freak");
+		System.out.println("New line added");
 	}
 
 }
